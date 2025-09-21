@@ -1,5 +1,3 @@
----
-
 # Claudible – Audit Assistant
 
 **AI-Enhanced Compliance Audit Assistant**
